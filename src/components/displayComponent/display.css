@@ -1,0 +1,10 @@
+.displayBox{
+    width: 60%;
+    margin: auto;
+}
+.listItem{
+    font-size: 2.5rem;
+    color: green;
+    list-style: none;
+    font-family: 'Pacifico', cursive;
+}

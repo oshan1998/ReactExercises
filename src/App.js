@@ -1,10 +1,13 @@
 
 import './App.css';
 
+import Search from './components/searchComponent/Search';
+
 function App() {
   return (
     <div>
-      <h1>Hello world</h1>
+      <Search/>
+      {/* <Display/> */}
 
     </div>
   );
